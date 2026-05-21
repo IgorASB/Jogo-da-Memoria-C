@@ -1,0 +1,17 @@
+# Binário compilado
+jogo_memoria
+jogo_memoria.exe
+
+# Arquivo de recordes gerado pelo programa
+recordes.txt
+
+# Objetos e debug
+*.o
+*.out
+*.dSYM/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
